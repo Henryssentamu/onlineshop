@@ -1,0 +1,15 @@
+.account-details-section{
+    flex: 2fr;
+    color: white;
+    display: flex;
+    flex-direction: row;
+}
+
+.account-details-section .holder{
+    flex: 1fr;
+    color: white;
+}
+
+.account-details-section .dropdown-menu{
+    flex: 1fr;
+}

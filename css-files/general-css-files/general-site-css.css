@@ -1,0 +1,20 @@
+.general_site{
+    display: grid;
+    grid-template-rows: 1fr 4fr;
+}
+
+.header_section{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(19, 25, 33);
+    color: white;
+    align-items: center;
+    justify-content: space-between;
+    height: 70px;
+}
+
+.main_body_section{
+    color: white;
+
+}
+
