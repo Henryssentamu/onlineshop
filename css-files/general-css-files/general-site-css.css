@@ -11,10 +11,22 @@
     align-items: center;
     justify-content: space-between;
     height: 70px;
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    top:0px;
+    z-index: 500;
 }
 
 .main_body_section{
     color: white;
 
+}
+
+
+/* css which cater for all links on the general site page ie main page */
+
+.all-links-on-general-sit{
+    text-decoration: none;
 }
 
