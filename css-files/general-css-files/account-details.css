@@ -129,7 +129,8 @@
         font-size: large;
         font-weight: 500;
         font-family: sans-serif;
-        right: 53px;
+        right: 50.5px;
+        top: -1px;
     }
 
     .shopping-list:hover{

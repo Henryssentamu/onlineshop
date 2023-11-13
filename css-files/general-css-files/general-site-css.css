@@ -1,6 +1,10 @@
+body{
+    background-color: aliceblue;
+}
+
 .general_site{
     display: grid;
-    grid-template-rows: 1fr 4fr;
+    grid-template-rows: 1fr 1fr;
 }
 
 .header_section{
@@ -19,7 +23,12 @@
 }
 
 .main_body_section{
-    color: white;
+    margin-top: 75px;
+    color: black;
+    display: grid;
+    grid-template-columns: 1fr 1fr  1fr 1fr;
+   
+    
 
 }
 
